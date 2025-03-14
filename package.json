@@ -9,7 +9,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\",
+    "test": "echo No test specified",
     "create-school-site": "./bin/cli.js"
   },
   "keywords": [],
