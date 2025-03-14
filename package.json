@@ -1,0 +1,31 @@
+{
+  "name": "@vidurya/school-site-generator",
+  "version": "1.0.0",
+    "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "bin": {
+    "create-school-site": "./bin/cli.js"
+  },
+
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-school-site": "./bin/cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.4.3",
+    "nunjucks": "^3.2.4",
+    "swr": "^2.3.3",
+    "lucide-react": "0.479.0",
+    "tailwindcss-animate": "1.0.7"
+  }
+}
