@@ -1,5 +1,5 @@
 {
-  "name": "@vidurya/school-site-generator",
+  "name": "school-site-generator",
   "version": "1.0.2",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
